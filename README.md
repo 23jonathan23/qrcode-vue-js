@@ -1,6 +1,6 @@
 # QRcode
 
-![]()
+![](/project_complete.PNG)
 
 Projeto simples, um gerador de QRCode, desenvolvido em VueJS
 
