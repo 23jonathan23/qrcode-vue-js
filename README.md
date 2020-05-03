@@ -1,4 +1,4 @@
-# QRcode
+# QRCode
 
 ![](/project_complete.PNG)
 
